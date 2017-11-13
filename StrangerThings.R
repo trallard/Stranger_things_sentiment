@@ -1,7 +1,3 @@
-#Code for "A Statistical Curiosity Voyage Through the Emotion of Stranger Things"
-#Article and code written by Jordan Dworkin (https://medium.com/@jordandworkin/)
-
-
 ###############################################################################
 ####### Pull script data (would need to be edited based on data source) #######
 ###############################################################################
